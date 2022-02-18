@@ -66,9 +66,12 @@ while True:
     if response.ok:
         dom = BeautifulSoup(response.text, 'html.parser')
 
-        if not num_pages:
+        if not num_pages or num_pages == 0:
             pager = dom.find('div', {'class': 'pager'})
-            num_pages = len(pager.findChildren(recursive=False)) - 1
+            # num_pages = len(pager.findChildren(recursive=False)) - 1
+            last_page_btn = pager.findChildren('span', recursive=False)[-1]
+            num_pages = last_page_btn.find('span').get_text()
+            num_pages = int(num_pages)
 
         vacancies = dom.select('div.vacancy-serp-item')
 
