@@ -24,8 +24,6 @@ params = {'area': '160',
           'page': current_page,
           'hhtmFrom': 'vacancy_search_list'}
 
-vacancy_list = []
-
 
 def write_vacancy_to_db(vacancy, collection):
     """
@@ -154,7 +152,7 @@ while True:
             vacancy_data['employer'] = vacancy_employer
             vacancy_data['city'] = vacancy_city
 
-            vacancy_list.append(vacancy_data)
+            write_vacancy_to_db(vacancy_data, db.vacancies)
 
         current_page += 1
         if current_page > num_pages:
@@ -162,8 +160,6 @@ while True:
     else:
         break
 
-for item in vacancy_list:
-    write_vacancy_to_db(item, db.vacancies)
 
 print('Количество записей в коллекции:', db.vacancies.count_documents({}))
 
