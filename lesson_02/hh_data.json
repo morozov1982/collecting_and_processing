@@ -1,0 +1,962 @@
+[
+    {
+        "title": "Data Scientist",
+        "link": "https://almaty.hh.kz/vacancy/52094583",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Банк ЦентрКредит",
+        "city": "Алматы"
+    },
+    {
+        "title": "Преподаватель информатики",
+        "link": "https://almaty.hh.kz/vacancy/51580172",
+        "compensation": {
+            "salary_from": 310000,
+            "salary_to": null,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "Шанталосова Алеся",
+        "city": "Алматы"
+    },
+    {
+        "title": "DevOps Engineer",
+        "link": "https://almaty.hh.kz/vacancy/49719462",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "inDriver",
+        "city": "Алматы"
+    },
+    {
+        "title": "Бэкенд Разработчик Питонист (Back-end on Python)",
+        "link": "https://almaty.hh.kz/vacancy/51922852",
+        "compensation": {
+            "salary_from": 400000,
+            "salary_to": null,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Frontier KZ",
+        "city": "Алматы"
+    },
+    {
+        "title": "Разработчик (Senior/Middle Web-Developer) DWH",
+        "link": "https://almaty.hh.kz/vacancy/52228356",
+        "compensation": {
+            "salary_from": 800000,
+            "salary_to": null,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Транспортный холдинг города Алматы",
+        "city": "Алматы"
+    },
+    {
+        "title": "Data Engineer",
+        "link": "https://almaty.hh.kz/vacancy/46833366",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Playrix",
+        "city": "Алматы"
+    },
+    {
+        "title": "Старший программист Python",
+        "link": "https://almaty.hh.kz/vacancy/51897431",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Кселл, АО",
+        "city": "Алматы"
+    },
+    {
+        "title": "DevOps Engineer for CRM Team",
+        "link": "https://almaty.hh.kz/vacancy/51420700",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Parimatch Tech",
+        "city": "Алматы"
+    },
+    {
+        "title": "QA Automation/Continuous Integration Engineer- KernelCare [Remote]",
+        "link": "https://almaty.hh.kz/vacancy/49843586",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Cloud Linux",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "link": "https://almaty.hh.kz/vacancy/46833413",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Playrix",
+        "city": "Алматы"
+    },
+    {
+        "title": "Аналитик (Data Analyst)",
+        "link": "https://almaty.hh.kz/vacancy/51893012",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО First Heartland Jusan Bank",
+        "city": "Алматы"
+    },
+    {
+        "title": "Middle Python developer (удаленно)",
+        "link": "https://almaty.hh.kz/vacancy/51508727",
+        "compensation": {
+            "salary_from": 100000,
+            "salary_to": 150000,
+            "currency": "руб."
+        },
+        "site": "https://hh.kz",
+        "employer": null,
+        "city": "Алматы"
+    },
+    {
+        "title": "Data аналитик/Риск-менеджер",
+        "link": "https://almaty.hh.kz/vacancy/52122811",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Банк ЦентрКредит",
+        "city": "Алматы"
+    },
+    {
+        "title": "QA инженер (backend)",
+        "link": "https://almaty.hh.kz/vacancy/50764215",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Тинькофф",
+        "city": "Алматы"
+    },
+    {
+        "title": "Auto Test Engineer (Python - web, mobile)",
+        "link": "https://almaty.hh.kz/vacancy/52010425",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Auriga",
+        "city": "Алматы"
+    },
+    {
+        "title": "Data Scientist (Речевая аналитика)",
+        "link": "https://almaty.hh.kz/vacancy/51466417",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Kaspi Bank, АО",
+        "city": "Алматы"
+    },
+    {
+        "title": "Back-End Python Developer",
+        "link": "https://almaty.hh.kz/vacancy/51242811",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Globerce Inc.",
+        "city": "Алматы"
+    },
+    {
+        "title": "Data Engineer",
+        "link": "https://almaty.hh.kz/vacancy/49993086",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "DataArt",
+        "city": "Алматы"
+    },
+    {
+        "title": "DevOps инженер",
+        "link": "https://almaty.hh.kz/vacancy/51982800",
+        "compensation": {
+            "salary_from": 350000,
+            "salary_to": 600000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Алматинская Лаборатория Искусственного Интеллекта",
+        "city": "Алматы"
+    },
+    {
+        "title": "Data-инженер",
+        "link": "https://almaty.hh.kz/vacancy/49366427",
+        "compensation": {
+            "salary_from": 600000,
+            "salary_to": 900000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "Kolesa Group",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior BigData Engineer, Financial Software Solutions",
+        "link": "https://almaty.hh.kz/vacancy/50377470",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "DataArt",
+        "city": "Алматы"
+    },
+    {
+        "title": "C++ Developer",
+        "link": "https://almaty.hh.kz/vacancy/50383469",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "DataArt",
+        "city": "Алматы"
+    },
+    {
+        "title": "Junior Data-аналитик (Kolesa Academy)/Стажер",
+        "link": "https://almaty.hh.kz/vacancy/51830115",
+        "compensation": {
+            "salary_from": 150000,
+            "salary_to": 150000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "Kolesa Group",
+        "city": "Алматы, Алатау"
+    },
+    {
+        "title": "Big Data Engineer",
+        "link": "https://almaty.hh.kz/vacancy/51068835",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Epam Kazakhstan (Эпам Казахстан),ТОО",
+        "city": "Алматы"
+    },
+    {
+        "title": "Инженер-программист",
+        "link": "https://almaty.hh.kz/vacancy/52392728",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО ICS Support&Solutions",
+        "city": "Алматы"
+    },
+    {
+        "title": "DevOps Engineer (Middle, Senior/Lead)",
+        "link": "https://almaty.hh.kz/vacancy/51691550",
+        "compensation": {
+            "salary_from": 1500,
+            "salary_to": 5000,
+            "currency": "USD"
+        },
+        "site": "https://hh.kz",
+        "employer": "ООО Kanda CA",
+        "city": "Алматы"
+    },
+    {
+        "title": "Associate / Intern to Data Analytics (Almaty)",
+        "link": "https://almaty.hh.kz/vacancy/48031494",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "PricewaterhouseCoopers",
+        "city": "Алматы"
+    },
+    {
+        "title": "Middle QA Engineer",
+        "link": "https://almaty.hh.kz/vacancy/52394573",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО EA Group Holding",
+        "city": "Алматы"
+    },
+    {
+        "title": "Middle Kernel Developer - KernelCare [Remote]",
+        "link": "https://almaty.hh.kz/vacancy/50790771",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Cloud Linux",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior Kernel Developer - KernelCare [Remote]",
+        "link": "https://almaty.hh.kz/vacancy/50362963",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Cloud Linux",
+        "city": "Алматы"
+    },
+    {
+        "title": "Middle/Senior Go Developer",
+        "link": "https://almaty.hh.kz/vacancy/47504849",
+        "compensation": {
+            "salary_from": 350000,
+            "salary_to": 1200000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО One technologies",
+        "city": "Алматы"
+    },
+    {
+        "title": "Разработчик корпоративных web-приложений",
+        "link": "https://almaty.hh.kz/vacancy/52143095",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО ICORE-Integration",
+        "city": "Алматы, Байконур"
+    },
+    {
+        "title": "Разработчик мобильных приложений",
+        "link": "https://almaty.hh.kz/vacancy/52389619",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Law Group Kazakhstan",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior Full-Stack Developer",
+        "link": "https://almaty.hh.kz/vacancy/51130227",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "DataArt",
+        "city": "Алматы"
+    },
+    {
+        "title": "Data Integration Engineer",
+        "link": "https://almaty.hh.kz/vacancy/51068841",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Epam Kazakhstan (Эпам Казахстан),ТОО",
+        "city": "Алматы"
+    },
+    {
+        "title": "QA Инженер (Manual)",
+        "link": "https://almaty.hh.kz/vacancy/52385716",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО First Heartland Jusan Invest",
+        "city": "Алматы"
+    },
+    {
+        "title": "Data Analyst",
+        "link": "https://almaty.hh.kz/vacancy/51068848",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Epam Kazakhstan (Эпам Казахстан),ТОО",
+        "city": "Алматы"
+    },
+    {
+        "title": "Преподаватель программирования для детей и подростков",
+        "link": "https://almaty.hh.kz/vacancy/51354897",
+        "compensation": {
+            "salary_from": 100000,
+            "salary_to": 400000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО IT Mind",
+        "city": "Алматы"
+    },
+    {
+        "title": "Packaging Engineer in ALT&EA team",
+        "link": "https://almaty.hh.kz/vacancy/52019911",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Cloud Linux",
+        "city": "Алматы"
+    },
+    {
+        "title": "Applicaton Security Engineer",
+        "link": "https://almaty.hh.kz/vacancy/52384980",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Beeline, ТМ",
+        "city": "Алматы"
+    },
+    {
+        "title": "Web QA Engineer",
+        "link": "https://almaty.hh.kz/vacancy/41809037",
+        "compensation": {
+            "salary_from": 250000,
+            "salary_to": 950000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "Kolesa Group",
+        "city": "Алматы"
+    },
+    {
+        "title": "Аналитик данных",
+        "link": "https://almaty.hh.kz/vacancy/52143781",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Astana-Plat",
+        "city": "Алматы"
+    },
+    {
+        "title": "IT-рекрутер/стажер",
+        "link": "https://almaty.hh.kz/vacancy/52165688",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": 55000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Банк Хоум Кредит, ДБ АО",
+        "city": "Алматы"
+    },
+    {
+        "title": "Главный риск-менеджер Департамента кредитных рисков корпоративного бизнеса",
+        "link": "https://almaty.hh.kz/vacancy/49057462",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО First Heartland Jusan Bank",
+        "city": "Алматы"
+    },
+    {
+        "title": "React Frontend Developer",
+        "link": "https://almaty.hh.kz/vacancy/52139114",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Chocofamily",
+        "city": "Алматы"
+    },
+    {
+        "title": "Middle Developer .Net",
+        "link": "https://almaty.hh.kz/vacancy/52121483",
+        "compensation": {
+            "salary_from": 100000,
+            "salary_to": null,
+            "currency": "руб."
+        },
+        "site": "https://hh.kz",
+        "employer": "ООО ИЦБ",
+        "city": "Алматы"
+    },
+    {
+        "title": "Rust Developer, Banking Services",
+        "link": "https://almaty.hh.kz/vacancy/49258898",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "DataArt",
+        "city": "Алматы"
+    },
+    {
+        "title": "Преподаватель программирования для детей",
+        "link": "https://almaty.hh.kz/vacancy/52076905",
+        "compensation": {
+            "salary_from": 52000,
+            "salary_to": 80000,
+            "currency": "руб."
+        },
+        "site": "https://hh.kz",
+        "employer": "Skyeng",
+        "city": "Алматы"
+    },
+    {
+        "title": "QA Automation Engineer, Banking Services",
+        "link": "https://almaty.hh.kz/vacancy/49211478",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "DataArt",
+        "city": "Алматы"
+    },
+    {
+        "title": "DevOps Инженер",
+        "link": "https://almaty.hh.kz/vacancy/52070248",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО TECHNODOM Operator (Технодом Оператор)",
+        "city": "Алматы, Алатау"
+    },
+    {
+        "title": "DevOps инженер",
+        "link": "https://almaty.hh.kz/vacancy/52070140",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО TECHNODOM Operator (Технодом Оператор)",
+        "city": "Алматы, Алатау"
+    },
+    {
+        "title": "Web-мастер",
+        "link": "https://almaty.hh.kz/vacancy/51790194",
+        "compensation": {
+            "salary_from": 500000,
+            "salary_to": null,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Ruba Technology",
+        "city": "Алматы"
+    },
+    {
+        "title": "Web Developer",
+        "link": "https://almaty.hh.kz/vacancy/52054146",
+        "compensation": {
+            "salary_from": 350000,
+            "salary_to": 900000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "АО «Страховая компания «Amanat»",
+        "city": "Алматы"
+    },
+    {
+        "title": "Руководитель направления коллекшн-скоринга",
+        "link": "https://almaty.hh.kz/vacancy/52058322",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Банк ЦентрКредит",
+        "city": "Алматы"
+    },
+    {
+        "title": "DevOps Engineer",
+        "link": "https://almaty.hh.kz/vacancy/52023238",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Auriga",
+        "city": "Алматы"
+    },
+    {
+        "title": "Стажер в Отдел OMC-R (Технический блок)",
+        "link": "https://almaty.hh.kz/vacancy/52015631",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Beeline, ТМ",
+        "city": "Алматы"
+    },
+    {
+        "title": "Маркетинговый аналитик",
+        "link": "https://almaty.hh.kz/vacancy/52041246",
+        "compensation": {
+            "salary_from": 500000,
+            "salary_to": 700000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "Kolesa Group",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior IT Recruiter",
+        "link": "https://almaty.hh.kz/vacancy/52038999",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": 1000000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО On Point (Он Поинт)",
+        "city": "Алматы"
+    },
+    {
+        "title": "Team Lead",
+        "link": "https://almaty.hh.kz/vacancy/50762160",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Playrix",
+        "city": "Алматы"
+    },
+    {
+        "title": "Специалист службы технической поддержки",
+        "link": "https://almaty.hh.kz/vacancy/52041975",
+        "compensation": {
+            "salary_from": 200000,
+            "salary_to": 300000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО ATLANT payments",
+        "city": "Алматы"
+    },
+    {
+        "title": "Преподаватель программирования для детей",
+        "link": "https://almaty.hh.kz/vacancy/51490571",
+        "compensation": {
+            "salary_from": 48000,
+            "salary_to": 80000,
+            "currency": "руб."
+        },
+        "site": "https://hh.kz",
+        "employer": "Skyeng",
+        "city": "Алматы"
+    },
+    {
+        "title": "Head of Data Science",
+        "link": "https://almaty.hh.kz/vacancy/51492488",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Beeline, ТМ",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior DevOps engineer",
+        "link": "https://almaty.hh.kz/vacancy/51460211",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО УМНЫЕ ГОРОДА",
+        "city": "Алматы"
+    },
+    {
+        "title": "Business analyst (SQL)",
+        "link": "https://almaty.hh.kz/vacancy/51460297",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "METRO Cash&Carry (Kazakhstan)",
+        "city": "Алматы"
+    },
+    {
+        "title": "Middle DevOps инженер",
+        "link": "https://almaty.hh.kz/vacancy/51411337",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)",
+        "city": "Алматы"
+    },
+    {
+        "title": "Преподаватель по программированию в отдел академии (онлайн)",
+        "link": "https://almaty.hh.kz/vacancy/51401669",
+        "compensation": {
+            "salary_from": 100000,
+            "salary_to": 200000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ИП BILIM WAY (Нурлы)",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior/Middle Backend developer",
+        "link": "https://almaty.hh.kz/vacancy/51407059",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Мобайл Телеком-Сервис (Объединенная Компания Tele2/ALTEL)",
+        "city": "Алматы"
+    },
+    {
+        "title": "Стажер-аналитик",
+        "link": "https://almaty.hh.kz/vacancy/51349409",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Mega Center Management",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior/Middle DevOps engineer",
+        "link": "https://almaty.hh.kz/vacancy/51271185",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Astana-Plat",
+        "city": "Алматы"
+    },
+    {
+        "title": "Разработчик приложений, Департамент информационных технологий",
+        "link": "https://almaty.hh.kz/vacancy/51236628",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Al Hilal Банк",
+        "city": "Алматы"
+    },
+    {
+        "title": "Архитектор облачных решений",
+        "link": "https://almaty.hh.kz/vacancy/51253402",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Казтелепорт, АО",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior Data Engineer, Online Genealogy Servicer",
+        "link": "https://almaty.hh.kz/vacancy/50377442",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "DataArt",
+        "city": "Алматы"
+    },
+    {
+        "title": "Старший эксперт по анализу BI",
+        "link": "https://almaty.hh.kz/vacancy/51212136",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "Beeline, ТМ",
+        "city": "Алматы"
+    },
+    {
+        "title": "Web-программист",
+        "link": "https://almaty.hh.kz/vacancy/51256196",
+        "compensation": {
+            "salary_from": 230000,
+            "salary_to": 260000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО КазИнфоТех АЦП",
+        "city": "Алматы, Москва"
+    },
+    {
+        "title": "Golang разработчик",
+        "link": "https://almaty.hh.kz/vacancy/51177821",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Re:point",
+        "city": "Алматы"
+    },
+    {
+        "title": "Senior/Middle Java разработчик",
+        "link": "https://almaty.hh.kz/vacancy/51184177",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Банк Хоум Кредит, ДБ АО",
+        "city": "Алматы"
+    },
+    {
+        "title": "Главный менеджер Управления аналитических систем Департамента информационных технологий",
+        "link": "https://almaty.hh.kz/vacancy/51199672",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "АО Altyn Bank",
+        "city": "Алматы"
+    },
+    {
+        "title": "Корпоративный архитектор по направлению «Информационные системы» (Дирекция по ИТ)",
+        "link": "https://almaty.hh.kz/vacancy/51478328",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ЗАО Кумтор Голд Компани",
+        "city": "Алматы"
+    },
+    {
+        "title": "Специалист по информационным системам",
+        "link": "https://almaty.hh.kz/vacancy/51410437",
+        "compensation": {
+            "salary_from": null,
+            "salary_to": null,
+            "currency": null
+        },
+        "site": "https://hh.kz",
+        "employer": "ТОО Carlsberg Kazakhstan",
+        "city": "Алматы"
+    },
+    {
+        "title": "Инженер-разработчик",
+        "link": "https://almaty.hh.kz/vacancy/52132397",
+        "compensation": {
+            "salary_from": 350000,
+            "salary_to": 350000,
+            "currency": "KZT"
+        },
+        "site": "https://hh.kz",
+        "employer": "Казахский национальный университет им. аль-Фараби",
+        "city": "Алматы"
+    }
+]
